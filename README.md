@@ -1,1 +1,1 @@
-# basic-of-html
+# basics-of-html
